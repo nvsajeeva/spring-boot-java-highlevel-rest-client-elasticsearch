@@ -5,10 +5,10 @@ Example POST request
 
 ```
 {
-	"firstName" : "Savani",
-	"lastName" : "Kumari",
-	"technologies" : [{"name" : "tech1", "yearsOfExperience" : "1"}],
-	"location" : {"lat" :"10", "lon" : "15"},
-	"emails": ["nvsajeeva@gmail.com", "msajeeva@yahoo.com"]
+	"firstName" : "Sajeeva",
+	"lastName" : "Lakmal",
+	"technologies" : [{"name" : "Spring", "yearsOfExperience" : "1"}],
+	"location" : {"lat" :"38.8951", "lon" : "-77.0364"},
+	"emails": ["sajeeva@gmail.com", "lakmal@yahoo.com"]
 }
 ```
